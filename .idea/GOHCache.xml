@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GoORMHelperCache">
+    <option name="schemaMapping">
+      <map>
+        <entry key="AbstractConfig">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/flowengine/config/AbstractConfig.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="BaseInfo">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/flowengine/entity/common.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Check">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/flowengine/entity/task.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CommonEvent">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/flowengine/enums/CommonEvent.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CommonOperation">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/flowengine/enums/CommonOperation.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Dag">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/flowengine/entity/dag.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="DagInstance">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/flowengine/entity/dag.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="DailyTransactionRecord">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../go_micro/pkg/rmsc/wattsaving/rpc/bill/cmd/rpc/bill.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FileDetails">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../go_micro/pkg/rmsc/wattsaving/rpc/bill/cmd/rpc/bill.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FinishPayPointBillLogic">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../go_micro/pkg/rmsc/wattsaving/rpc/bill/cmd/rpc/internal/logic/finishPayPointBillLogic.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FlowContext">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/flowengine/context/FlowContext.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FlowEngineServiceImpl">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/flowengine/service/impl/FlowEngineServiceImpl.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GateWayCallBackContext">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/flowengine/context/GateWayCallbackContext.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="HandlerNode">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/flowengine/enums/HandlerNodeType.go" />
+              <option value="file://$PROJECT_DIR$/flowengine/handler/HandlerNode.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Record">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../go_micro/pkg/rmsc/wattsaving/rpc/bill/cmd/rpc/bill.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Task">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/flowengine/entity/task.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="TaskCondition">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/flowengine/entity/task.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="TaskDetails">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../go_micro/pkg/rmsc/wattsaving/rpc/bill/cmd/rpc/bill.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="TaskInstance">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/flowengine/entity/task.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="TraceInfo">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/flowengine/entity/task.go" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="scannedPathMapping">
+      <map>
+        <entry key="file://$PROJECT_DIR$/flowengine/config/AbstractConfig.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1731395697821" />
+              <option name="schema">
+                <list>
+                  <option value="AbstractConfig" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/flowengine/config/FlowConfig.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1731393931585" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/flowengine/context/FlowContext.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1732089524739" />
+              <option name="schema">
+                <list>
+                  <option value="FlowContext" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/flowengine/context/GateWayCallbackContext.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1731393698183" />
+              <option name="schema">
+                <list>
+                  <option value="GateWayCallBackContext" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/flowengine/entity/common.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1731900000661" />
+              <option name="schema">
+                <list>
+                  <option value="BaseInfo" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/flowengine/entity/dag.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1731900071527" />
+              <option name="schema">
+                <list>
+                  <option value="Dag" />
+                  <option value="DagInstance" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/flowengine/entity/task.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1732091872469" />
+              <option name="schema">
+                <list>
+                  <option value="Task" />
+                  <option value="Check" />
+                  <option value="TaskInstance" />
+                  <option value="TraceInfo" />
+                  <option value="TaskCondition" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/flowengine/enums/CommonEvent.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1731379749189" />
+              <option name="schema">
+                <list>
+                  <option value="CommonEvent" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/flowengine/enums/CommonOperation.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1731377916263" />
+              <option name="schema">
+                <list>
+                  <option value="CommonOperation" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/flowengine/enums/CommonOrderState.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1731376404191" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/flowengine/enums/FlowEvent.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1731379766608" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/flowengine/enums/FlowOperation.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1731374986284" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/flowengine/enums/FlowState.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1731824093971" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/flowengine/enums/HandlerNodeType.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1731398849113" />
+              <option name="schema">
+                <list>
+                  <option value="HandlerNode" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/flowengine/enums/SubOrderState.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1731376508728" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/flowengine/handler/HandlerNode.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1731651852008" />
+              <option name="schema">
+                <list>
+                  <option value="HandlerNode" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/flowengine/service/FlowEngineService.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1731652239525" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/flowengine/service/impl/FlowEngineServiceImpl.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1731728160679" />
+              <option name="schema">
+                <list>
+                  <option value="FlowEngineServiceImpl" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../go_micro/pkg/rmsc/wattsaving/rpc/bill/cmd/rpc/bill.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1732095976695" />
+              <option name="schema">
+                <list>
+                  <option value="Record" />
+                  <option value="FileDetails" />
+                  <option value="TaskDetails" />
+                  <option value="DailyTransactionRecord" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../go_micro/pkg/rmsc/wattsaving/rpc/bill/cmd/rpc/internal/logic/finishPayPointBillLogic.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1732095799101" />
+              <option name="schema">
+                <list>
+                  <option value="FinishPayPointBillLogic" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="tableStructMapping">
+      <map>
+        <entry key="abstract_config" value="AbstractConfig" />
+        <entry key="base_info" value="BaseInfo" />
+        <entry key="check" value="Check" />
+        <entry key="common_event" value="CommonEvent" />
+        <entry key="common_operation" value="CommonOperation" />
+        <entry key="dag" value="Dag" />
+        <entry key="dag_instance" value="DagInstance" />
+        <entry key="daily_transaction_record" value="DailyTransactionRecord" />
+        <entry key="file_details" value="FileDetails" />
+        <entry key="finish_pay_point_bill_logic" value="FinishPayPointBillLogic" />
+        <entry key="flow_context" value="FlowContext" />
+        <entry key="flow_engine_service_impl" value="FlowEngineServiceImpl" />
+        <entry key="gate_way_call_back_context" value="GateWayCallBackContext" />
+        <entry key="handler_node" value="HandlerNode" />
+        <entry key="record" value="Record" />
+        <entry key="task" value="Task" />
+        <entry key="task_condition" value="TaskCondition" />
+        <entry key="task_details" value="TaskDetails" />
+        <entry key="task_instance" value="TaskInstance" />
+        <entry key="trace_info" value="TraceInfo" />
+      </map>
+    </option>
+    <option name="lastTimeChecked" value="1732081045105" />
+  </component>
+</project>
